@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DesignPatterns\AbstractFactoryPattern.cs" />
+    <Compile Include="DesignPatterns\BuilderPattern.cs" />
     <Compile Include="DesignPatterns\FactoryPattern.cs" />
     <Compile Include="DesignPatterns\Singleton.cs" />
     <Compile Include="Program.cs" />
