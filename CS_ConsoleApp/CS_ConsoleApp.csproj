@@ -52,6 +52,11 @@
     <Compile Include="DesignPatterns\BuilderPattern.cs" />
     <Compile Include="DesignPatterns\FactoryPattern.cs" />
     <Compile Include="DesignPatterns\Singleton.cs" />
+    <Compile Include="InterviewPrograms\ElementCount.cs" />
+    <Compile Include="InterviewPrograms\FinancialMonth.cs" />
+    <Compile Include="InterviewPrograms\FizBuzz.cs" />
+    <Compile Include="InterviewPrograms\MIssingNumber.cs" />
+    <Compile Include="InterviewPrograms\PascalTriangle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
