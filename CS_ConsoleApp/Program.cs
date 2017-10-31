@@ -12,15 +12,10 @@ namespace CS_ConsoleApp
     {
         static void Main()
         {
-            PascalTriangle.PrintNormalPascalTriangle();
+            
+            Console.ReadKey();
+
         }
-
-    }
-
-    public static class TestMathods
-    {
-       
     }
 }
-
 
